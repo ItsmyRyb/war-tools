@@ -1,3 +1,16 @@
+# Ai Tools
+**Select the research application that you like :**
+
+[Start a research on ChainGpt](https://www.chaingpt.org/)
+
+[Start a research on Perplexity](https://www.perplexity.ai/)
+
+[Start a research on Messari](https://messari.io/)
+
+[Start a research on Santiment](https://app.santiment.net/)
+
+[Start a research on Cookie](https://www.cookie.fun/)
+
 # Deploy
 **Select the deploy application that you like :**
 
